@@ -1,0 +1,2 @@
+[dependencies]
+tokio-postgres = "0.5"
